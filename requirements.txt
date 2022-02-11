@@ -1,0 +1,8 @@
+Keras
+tensorflow-gpu
+opencv-python
+scikit-learn
+scipy
+Pillow
+torch
+torchvision
