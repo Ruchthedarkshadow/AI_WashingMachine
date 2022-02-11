@@ -1,5 +1,5 @@
 Keras
-tensorflow-gpu
+tensorflow
 opencv-python
 scikit-learn
 scipy
