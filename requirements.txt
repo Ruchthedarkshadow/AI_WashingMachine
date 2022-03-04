@@ -6,3 +6,4 @@ scipy
 Pillow
 torch
 torchvision
+jupyter
