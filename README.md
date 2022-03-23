@@ -9,9 +9,9 @@ pip3 install -r requirements.txt
 
 jupyter notebook --allow-root  # (open url and launch detect.ipynb file)
 
-#WORKING
+# WORKING
 
-Firs of all gather whole dataset of resolution 1024 x 500px or higher.
+First of all gather whole dataset of resolution 1024 x 500px or higher.
 
 Then we apply object detection.
 
