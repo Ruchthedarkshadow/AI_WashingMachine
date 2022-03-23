@@ -2,8 +2,11 @@
 # Run these four command in terminal
 
 sudo apt install python3.8
+
 sudo apt install python3-pip
+
 pip3 install -r requirements.txt
+
 jupyter notebook --allow-root  # (open url and launch detect.ipynb file)
 
 first of all gather whole dataset of resolution 1024 x 500px or higher.
